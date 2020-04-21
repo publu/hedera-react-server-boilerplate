@@ -206,7 +206,7 @@ export default function App() {
       </Helmet>
       <Header />
       <H1>
-        This is a demo of all the functions you can use on Hedera  hash.raph. You can use it as a boilerplate project to get your application running.
+        This is a demo of all the functions you can use on Hedera Hashgraph. You can use it as a boilerplate project to get your application running.
       </H1>
       <button style={button} onClick={()=>setProvider()}> SET PROVIDER </button>
       <button style={button} onClick={()=>setAccount()}> SET ACCOUNT </button>
