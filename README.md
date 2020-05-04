@@ -1,3 +1,27 @@
+## Introduction
+
+A server made on React.js and express that serves a webpage, its resources, and some data. It can connect to the Hedera Hashgraph network.
+
+## Built with
+
+* [Hedera Hashgraph](https://www.hedera.com/) - The enterprise-grade public network
+* [Hash-SDK](https://github.com/hashingsystems/hash.js) - The easiest way to use Hedera in JavaScript
+* [React.js](https://reactjs.org/) - a javascript library for building user interfaces
+
+## Questions & contributions
+
+If you have any questions or feedback on how we can improve this demo, [reach out](https://twitter.com/hashingsystems) to us or post a question/option on our [forum](https://dailystamp.io/).
+
+## Prerequisites
+
+This demo assumes that you have an account on the Hedera testnet. For example:
+
+```
+ACCOUNT_ID=0.0.123456789
+PRIVATE_KEY=302e020100300506032b657004220420f4361ec73dc43e568f1620a7b7ecb7330790b8a1c7620f1ce353aa1de4f0eaa6
+```
+
+If you don’t have one, sign up using [Composer](https://chrome.google.com/webstore/detail/composer-for-hedera-hashg/hdjnnemgikeoehneddegfcmkljenlean?hl=en). You can follow [this quick tutorial](https://medium.com/hashingsystems/how-to-get-started-on-hedera-and-composer-in-5-easy-steps-2c2cbb6af09d) to get started.
 
 <div align="center"><strong>Start your next react project in seconds</strong></div>
 <div align="center">A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices</div>
@@ -164,3 +188,9 @@ This project would not be possible without the support of these amazing folks. [
 
 This project is licensed under the MIT license, Copyright (c) 2019 Maximilian
 Stoiber. For more information see `LICENSE.md`.
+
+## Disclaimer
+
+This is just a simple demo. Please use responsibly.
+
+[Contact](https://twitter.com/hashingsystems) us if you need anything.
